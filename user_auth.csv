@@ -1,0 +1,2 @@
+email,password,security_question
+user@example.com,$2b$12$hashedpassword,What is your favorite color?
